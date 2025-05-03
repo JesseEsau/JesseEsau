@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # I'm Esau Jesse Shayang! 👋
 
 
@@ -17,4 +17,3 @@ I'm a passionate Junior Software Engineer with a growing foundation in HTML, CSS
 Let’s connect and build something awesome!
 
 
--->
