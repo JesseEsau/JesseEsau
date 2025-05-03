@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**JesseEsau/JesseEsau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Esau Jesse Shayang! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me 🚀
+I'm a passionate Junior Software Engineer with a growing foundation in HTML, CSS, JavaScript, and Python. I'm currently learning frontend development through the ALX Software Engineering program and enjoy building clean, efficient, and meaningful solutions to real-world problems. I'm especially interested in creating responsive web interfaces, improving user experiences, and exploring how software can make life better for everyone.
+
+
+- 🌱 Currently learning: HTML, CSS, JavaScript, React JS, Shell, Git, and Frontend Engineering
+- 🔭 Working on: Personal portfolio site and ALX projects
+- 🌍 Languages: Python, JavaScript | English, Jere
+- 📫 How to reach me: jesseesau13@gmail.com | LinkedIn
+- ⚡ Fun fact: I'm equally obsessed with code, and Indian action movies.
+
+Let’s connect and build something awesome!
+
+
 -->
